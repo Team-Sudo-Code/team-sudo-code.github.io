@@ -2,8 +2,9 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-# Members
-Kento Nishi, Thomas Li, Rahul Kaura, and Alexander Zhang
+# About
+Team Sudo-Code is a team of high school programmers at Lynbrook High School. Members include Kento Nishi, Alexander Zhang, Thomas Li, and Rahul Kaura.
+
 
 # Projects
 
