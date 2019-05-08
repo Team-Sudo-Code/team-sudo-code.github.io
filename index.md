@@ -6,6 +6,7 @@
 ### Kento Nishi, Thomas Li, Rahul Kaura, and Alexander Zhang
 
 ## Projects
+
 <div class="repos"></div>
 
 <script>
