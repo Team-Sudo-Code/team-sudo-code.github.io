@@ -2,10 +2,10 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-## Members
+# Members
 ### Kento Nishi, Thomas Li, Rahul Kaura, and Alexander Zhang
 
-## Projects
+# Projects
 
 <div class="repos"></div>
 
