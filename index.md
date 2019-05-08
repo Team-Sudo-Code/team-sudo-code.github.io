@@ -3,7 +3,7 @@
 </head>
 
 # Members
-### Kento Nishi, Thomas Li, Rahul Kaura, and Alexander Zhang
+Kento Nishi, Thomas Li, Rahul Kaura, and Alexander Zhang
 
 # Projects
 
