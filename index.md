@@ -20,7 +20,7 @@
     var jsonStr=httpGet("https://api.github.com/users/Team-Sudo-Code/repos");
     var jsonParsed=JSON.parse(jsonStr);
     jsonParsed.forEach(repo=>{
-        var elem=document.createElement("h2");
+        var elem=document.createElement("h3");
         elem.innerHTML=repo.name;
         document.querySelectorAll(".repos")[0].appendChild(elem);
     });
