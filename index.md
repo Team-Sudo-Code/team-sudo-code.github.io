@@ -10,6 +10,7 @@
 <div class="repos"></div>
 
 <script>
+    
     function httpGet(theUrl){
         var xmlHttp = new XMLHttpRequest();
         xmlHttp.open( "GET", theUrl, false );
@@ -23,4 +24,5 @@
         elem.innerHTML=repo.name;
         document.querySelectorAll(".repos")[0].appendChild(elem);
     });
+    
 </script>
