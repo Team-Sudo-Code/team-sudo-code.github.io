@@ -21,7 +21,9 @@
     var jsonParsed=JSON.parse(jsonStr);
     jsonParsed.forEach(repo=>{
         var elem=document.createElement("h3");
+        elem.color="black";
         elem.innerHTML=repo.name;
+        elem.style.margin="0";
         document.querySelectorAll(".repos")[0].appendChild(elem);
     });
     
