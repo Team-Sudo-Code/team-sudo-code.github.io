@@ -10,7 +10,6 @@
 <div class="repos"></div>
 
 <script>
-    
     function httpGet(theUrl){
         var xmlHttp = new XMLHttpRequest();
         xmlHttp.open( "GET", theUrl, false );
@@ -22,9 +21,11 @@
     jsonParsed.forEach(repo=>{
         var elem=document.createElement("h3");
         elem.color="black";
-        elem.innerHTML=repo.name;
         elem.style.margin="0";
+        var a=document.createElement("a");
+        a.href=repo.html_url;
+        a.innerText=repo.name;
+        elem.appendChild(a);
         document.querySelectorAll(".repos")[0].appendChild(elem);
     });
-    
 </script>
