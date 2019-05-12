@@ -1,3 +1,2 @@
 # team-sudo-code.github.io
-Code for Hackathon
-By-Kental,Rahul,Thomas,Alexander
+A temporary website for Team Sudo Code. 
